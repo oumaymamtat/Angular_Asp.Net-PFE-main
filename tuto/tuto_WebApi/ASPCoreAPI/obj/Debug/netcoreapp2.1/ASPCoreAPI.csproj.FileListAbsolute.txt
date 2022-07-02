@@ -1,0 +1,16 @@
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\bin\Debug\netcoreapp2.1\ASPCoreAPI.deps.json
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\bin\Debug\netcoreapp2.1\ASPCoreAPI.runtimeconfig.json
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\bin\Debug\netcoreapp2.1\ASPCoreAPI.runtimeconfig.dev.json
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\bin\Debug\netcoreapp2.1\ASPCoreAPI.dll
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\bin\Debug\netcoreapp2.1\ASPCoreAPI.pdb
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\obj\Debug\netcoreapp2.1\ASPCoreAPI.RazorAssemblyInfo.cache
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\obj\Debug\netcoreapp2.1\ASPCoreAPI.RazorAssemblyInfo.cs
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\obj\Debug\netcoreapp2.1\ASPCoreAPI.AssemblyInfoInputs.cache
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\obj\Debug\netcoreapp2.1\ASPCoreAPI.AssemblyInfo.cs
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\obj\Debug\netcoreapp2.1\ASPCoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\obj\Debug\netcoreapp2.1\ASPCoreAPI.dll
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\obj\Debug\netcoreapp2.1\ASPCoreAPI.pdb
+C:\Users\oumayma\Desktop\ASPCoreAPI\ASPCoreAPI\obj\Debug\netcoreapp2.1\ASPCoreAPI.csprojAssemblyReference.cache
